@@ -1,0 +1,17 @@
+****** APPLICATION *******         ***INDEX****	
+	IPsec VPN/Encryption		2
+	NAT				3
+	WAN opimization			4
+	SBC				6
+	Traffic Shaper			7	
+Updated based on the details from Cisco ASR 1000 series Router and Cisco WAN Appliances
+
+
+func_index	memory_requirement	throughput
+************START OF FILE*****************
+2	0.2
+3	0.2
+4	0.4
+6	0.2
+7	0.4
+************END OF FILE******************

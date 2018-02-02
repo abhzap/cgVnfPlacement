@@ -1,0 +1,5 @@
+traffic generation in Mbps
+src	dest
+************START OF FILE*****************
+1	3
+************END OF FILE******************
